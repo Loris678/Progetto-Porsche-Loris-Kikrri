@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Loris Kikrri porsche.sln"
+    "dotnet.defaultSolution": "Progetto-Porsche-Loris-Kikrri.sln"
 }
