@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: c179b9eed1af1504c96a7521c0fcf1e3
+  productGUID: 20f470acc96dd9141a719fc44f980894
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Progetto porsche
+  productName: Loris Kikrri porsche
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Progetto porsche
+  metroPackageName: Loris Kikrri porsche
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Progetto porsche
+  metroApplicationDescription: Loris Kikrri porsche
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8bebc2ff-d6e4-4c32-9176-6728ae12d733
+  cloudProjectId: c7788fc8-7733-4276-9682-495e92eca09b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Progetto porsche
+  projectName: Loris Kikrri porsche
   organizationId: loriskikrri
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
